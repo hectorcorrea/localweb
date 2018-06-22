@@ -6,7 +6,7 @@ Use this program to serve HTML, JavaScript, or CSS files on your local machine f
 This program will serve via HTTP any files under the `./public` subfolder.  
 
 ## Running the executable
-Download the executable for your operating system from the Releases tab, run it, and point your browser to http://localhost:9001
+Download the executable for your operating system from the [Releases tab](https://github.com/hectorcorrea/localweb/releases), run it, and point your browser to http://localhost:9001
 
 You can change the listening port via the `-port` parameter, for example:
 
