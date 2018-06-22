@@ -1,0 +1,7 @@
+# Ignore my test files
+public/
+
+# Ignore the executables
+localweb
+localweb_linux
+localweb
