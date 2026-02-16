@@ -8,6 +8,14 @@ This program will serve via HTTP any files under same folder as the executable.
 ## Running the executable
 Download the executable for your operating system from the [Releases tab](https://github.com/hectorcorrea/localweb/releases), run it, and point your browser to http://localhost:9001
 
+On a Mac you can run the following commands from the Terminal:
+
+```
+curl -LO https://github.com/hectorcorrea/localweb/releases/latest/download/localweb
+chmod u+x localweb
+./localweb
+```
+
 You can change the listening port via the `-port` parameter, for example:
 
 ```
